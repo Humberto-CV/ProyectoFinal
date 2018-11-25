@@ -1,1 +1,0 @@
-Consiste en utilizar la derivada de una función y selecionar un punto inicial, el método calcula la tangente en el punto. La abscisa en el origen de dicha recta será, según el método, una mejor aproximación de la raíz que el valor anterior. Se realizarán sucesivas iteraciones hasta conseguir el error deseado.
