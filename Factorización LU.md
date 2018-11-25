@@ -1,0 +1,1 @@
+Similar al método de eliminación Gaussiana, Factorización LU usa las operaciones fundamentales (sin cambiar columnas ni renglones) para optener una matriz U (upper), los coeficientes utilizados para la transformación se convierten en la matriz L y luego se despejan para optener los valores de x.
