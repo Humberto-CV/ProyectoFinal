@@ -1,0 +1,1 @@
+Este método resuelve sistemas de ecuaciones y consiste en aplicarle operaciones fundamentales a la matriz aumentada para obtener ceros y eliminar las variables de algunas ecuaciones para tener un sistema más sencillo.
