@@ -1,1 +1,1 @@
-# ProyectoFinal
+# Proyecto Final de Métodos Numéricos
