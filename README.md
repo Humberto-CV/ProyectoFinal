@@ -1,1 +1,1 @@
-#Katas del curso
+Katas del curso
