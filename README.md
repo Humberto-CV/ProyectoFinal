@@ -1,1 +1,1 @@
-Métodos del tercer parcial
+# Métodos del tercer parcial con sus descripciones
