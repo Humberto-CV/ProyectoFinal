@@ -1,1 +1,1 @@
-# Proyecto Final de Métodos Numéricos
+# Métodos del primer parcial con sus descripciones
