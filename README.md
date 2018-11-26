@@ -1,1 +1,1 @@
-# Proyecto Final de Métodos Numéricos
+Métodos del tercer parcial
